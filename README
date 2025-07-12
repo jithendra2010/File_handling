@@ -1,0 +1,30 @@
+file handling:
+file 
+type paths
+open/clode
+reading
+writing
+appending data into the file
+file,directory
+os module methods
+
+
+
+-----------------------------------------------------
+ r-reading the file which has existed
+ w-writing data in a file /
+ fileno()-file number
+ flush()-file stream refresh
+ readline/readlines
+ truncate()
+ rstrip()
+ strip()
+
+program the acepts filename as input
+from the user
+open the file and ount the numbe of times the number
+appries in the file:
+-------------------------------------------------------
+rename\deleting:
+syntax: os.rename(oldfile,newfile)
+
